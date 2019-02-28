@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="56" started-at="2019-02-28T18:19:52Z" finished-at="2019-02-28T18:19:52Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="56" started-at="2019-02-28T18:19:52Z" finished-at="2019-02-28T18:19:52Z">
+      <class name="testbase.testbase">
+        <test-method status="PASS" signature="testlogin()[pri:0, instance:testbase.testbase@396a51ab]" name="testlogin" duration-ms="21" started-at="2019-02-28T23:49:52Z" finished-at="2019-02-28T23:49:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+      </class> <!-- testbase.testbase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
